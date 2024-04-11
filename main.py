@@ -39,4 +39,4 @@ async def on_command_error(ctx, error):
     # Lazy error_handling, will be changed soon!
 
 
-bot.run("MTIyNDMzNDQ0MTgwNDA3NTE1MA.G8e5I9.4cYr7bIx6Zn-X-mmY-RJZ3Dnl9N68ip5raUqyY")
+bot.run("")
