@@ -1,0 +1,6 @@
+discord
+timeago
+git+https://github.com/redParrot17/discord-ext-fancy-help
+git+https://github.com/vcokltfre/template-bot-v2
+python-dotenv
+dblpy

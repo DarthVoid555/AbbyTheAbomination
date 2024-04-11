@@ -1,0 +1,11 @@
+# byte compiled
+__pycache__
+*.py[cod]
+
+# environment stuff
+venv/
+.env
+.replit
+
+# database related
+database.db
